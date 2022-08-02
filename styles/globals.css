@@ -2,11 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.google.com/specimen/League+Spartan');
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@700&display=swap');
 
 @layer base {
   html {
-    font-family: Proxima Nova, system-ui, sans-serif;
+    font-family: 'League Spartan', sans-serif;
   }
 }
 
@@ -26,4 +26,8 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+.league {
+  font-family: 'League Spartan', sans-serif;
 }
