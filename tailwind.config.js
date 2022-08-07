@@ -18,7 +18,7 @@ module.exports = {
       'text_white': 'hsl(0, 0%, 100%)',
       'bgmain_grey': 'hsl(0, 0%, 90%)',
       'keypadbg_grayred': 'hsl(0, 5%, 81%)',
-      'screenbg_gray': 'hsl(0, 0%, 93%)',
+      'screenbg_gray': 'hsl(0, 0%, 83%)',
       'keybg_cyan': 'hsl(185, 42%, 37%)',
       'keyshadow_cyan': 'hsl(185, 58%, 25%)',
       'keybg_orange': 'hsl(25, 98%, 40%)',
